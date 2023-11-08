@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Frostfallen.pdb filter=lfs diff=lfs merge=lfs -text
+Frostfallen-Windows.ucas filter=lfs diff=lfs merge=lfs -text

@@ -2,3 +2,5 @@
 * text=auto
 Frostfallen.pdb filter=lfs diff=lfs merge=lfs -text
 Frostfallen-Windows.ucas filter=lfs diff=lfs merge=lfs -text
+Frostfallen-Win64-Shipping.exe filter=lfs diff=lfs merge=lfs -text
+Frostfallen.exe filter=lfs diff=lfs merge=lfs -text

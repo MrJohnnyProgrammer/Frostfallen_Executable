@@ -1,5 +1,5 @@
 Frostfallen/Binaries/Win64/D3D12/D3D12Core.dll	2023-06-28T07:33:27.226Z
-Frostfallen/Binaries/Win64/Frostfallen-Win64-Shipping.exe	2023-11-09T09:49:52.765Z
+Frostfallen/Binaries/Win64/Frostfallen-Win64-Shipping.exe	2023-11-11T15:31:18.963Z
 Frostfallen/Binaries/Win64/OpenImageDenoise.dll	2023-06-28T07:36:45.241Z
 Frostfallen/Binaries/Win64/boost_atomic-mt-x64.dll	2023-06-28T07:36:44.274Z
 Frostfallen/Binaries/Win64/boost_chrono-mt-x64.dll	2023-06-28T07:36:44.274Z
@@ -20,4 +20,4 @@ Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-06-28T07:33:25.81
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-06-28T07:33:27.214Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-06-28T07:33:27.215Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-06-28T07:33:27.254Z
-Frostfallen.exe	2023-11-09T09:50:48.244Z
+Frostfallen.exe	2023-11-11T15:42:56.722Z
